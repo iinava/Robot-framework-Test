@@ -7,7 +7,7 @@ This project is a test automation framework using Robot Framework for testing  ,
 ## Installation
 1. Clone the repository to your local machine:
    ```
-  https://github.com/iinava/Robot-framework-Test.git
+   git clone https://github.com/iinava/Robot-framework-Test.git
    ```
 
 2. Install the required Python packages:
